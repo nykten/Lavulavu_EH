@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "377cffa9-751e-c1b3-6481-790bec570ed9",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "LeftHearts",
+    "objGuid": "Guid(4767067343065027191, 17462406588772217221)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
